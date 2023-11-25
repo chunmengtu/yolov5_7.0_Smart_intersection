@@ -1,0 +1,9 @@
+train: E:/PycharmProjects/yolov5_7.0_cl/data/dataSet_path/train.txt
+test: E:/PycharmProjects/yolov5_7.0_cl/data/dataSet_path/test.txt
+val: E:/PycharmProjects/yolov5_7.0_cl/data/dataSet_path/val.txt
+
+nc: 6
+
+# class names
+names: ['Bus','Microbus','Minivan','SUV','Sedan','Truck']
+
